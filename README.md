@@ -1,0 +1,1 @@
+This repository contains commands that print different results when exacuted
