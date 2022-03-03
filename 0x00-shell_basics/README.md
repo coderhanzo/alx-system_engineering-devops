@@ -12,3 +12,7 @@ File 5-listfilesdigitonly displays current directory contents in long format, wi
 
 File 6-firstdirectory creates a script that creates a directory named holberton in the /tmp/ directory.
 
+File 7-movethatfile moves the file betty from /tmp/ to /tmp/holberton.
+
+File 8-firstdelete deletes the file betty.
+
